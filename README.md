@@ -1,14 +1,10 @@
 # Jaswanth Kumar
 
-Welcome to my GitHub profile! I am an experienced **Data Engineer** with over 4 years of experience in building and optimizing data pipelines, managing cloud migrations, and integrating complex data systems. I have had the privilege of working with industry leaders like Walmart and Infosys, where I contributed to impactful projects enhancing data processing efficiency and delivering actionable insights. I am passionate about leveraging technology to solve data challenges, streamline workflows, and support informed decision-making.
----
+Welcome to my GitHub profile!
 
 ## About Me
 
-- **Profession**: Data Engineer  
-- **Experience**: Over 4 years of experience in ETL development, cloud migrations, and data integration.  
-- **Passion**: Streamlining data workflows, automating processes, and delivering actionable insights through advanced reporting and analytics tools.  
-- **Education**: Master's in Business Analytics and Information Systems from the University of South Florida (CGPA: 3.9/4.0).  
+I am an experienced **Data Engineer** with over 4 years of experience in building and optimizing data pipelines, managing cloud migrations, and integrating complex data systems. I have had the privilege of working with industry leaders like Walmart and Infosys, where I contributed to impactful projects enhancing data processing efficiency and delivering actionable insights. I am passionate about leveraging technology to solve data challenges, streamline workflows, and support informed decision-making.
 
 ---
 
