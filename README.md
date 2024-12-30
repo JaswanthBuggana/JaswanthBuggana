@@ -1,10 +1,8 @@
-Welcome to my GitHub profile!
+Hello, Welcome to my GitHub profile!
 
 ## About Me
 
-I am Jaswanth Kumar, an experienced **Data Engineer** with over 4 years of experience in building and optimizing data pipelines, managing cloud migrations, and integrating complex data systems. I have had the privilege of working with industry leaders like **Walmart** and **Infosys**, where I contributed to impactful projects enhancing data processing efficiency and delivering actionable insights. I am passionate about leveraging technology to solve data challenges, streamline workflows, and support informed decision-making.
-
----
+I am Jaswanth Kumar, an experienced **Data Engineer** with over 4 years of expertise in building and optimizing data pipelines, managing cloud migrations, and integrating complex data systems. I have had the privilege of working with industry leaders such as **Walmart** and **Infosys**, where I contributed to impactful projects that enhanced data processing efficiency and delivered actionable insights. I am passionate about leveraging technology to address data challenges, streamline workflows, and support informed decision-making.
 
 ## Exploring Data Engineer Opportunities
 
@@ -15,8 +13,6 @@ I am actively exploring new opportunities where I can:
 - Build data-driven solutions that provide actionable business insights.
 - Collaborate on innovative projects leveraging big data and machine learning technologies.
 
----
-
 ## Projects
 
 ### **Integrated Big Data Analysis of NCDC Weather Records**
@@ -26,8 +22,6 @@ I am actively exploring new opportunities where I can:
 ### **Bay Area Real Estate Price Prediction**
 - Executed web scraping with BeautifulSoup and Selenium to extract real-time data for 4,500+ properties from Redfin.
 - Trained and evaluated regression models (Linear Regression, Decision Trees, Gradient Boosting) to predict property prices in the Bay Area accurately.
-
----
 
 ## Skills and Technologies
 
