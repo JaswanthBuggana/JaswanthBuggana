@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I am an experienced **Data Engineer** with over 4 years of experience in building and optimizing data pipelines, managing cloud migrations, and integrating complex data systems. I have had the privilege of working with industry leaders like Walmart and Infosys, where I contributed to impactful projects enhancing data processing efficiency and delivering actionable insights. I am passionate about leveraging technology to solve data challenges, streamline workflows, and support informed decision-making.
+I am an experienced **Data Engineer** with over 4 years of experience in building and optimizing data pipelines, managing cloud migrations, and integrating complex data systems. I have had the privilege of working with industry leaders like **Walmart** and **Infosys**, where I contributed to impactful projects enhancing data processing efficiency and delivering actionable insights. I am passionate about leveraging technology to solve data challenges, streamline workflows, and support informed decision-making.
 
 ---
 
