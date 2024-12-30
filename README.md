@@ -44,25 +44,19 @@ I am actively exploring new opportunities where I can:
 ### **Visualization Tools**
 - Tableau, Power BI, Informatica, Apache Airflow, Kafka, SSIS
 
----
 
 ## Certifications
 
 - **Microsoft Azure Data Fundamentals (DP-900)** - April 2024
 - **Databricks Data Engineer Associate** - March 2024
 
----
-
 ## Contact Me
 
 Feel free to connect with me for any exciting opportunities or collaborations:
 
 - **Email**: [jbuggana@gmail.com](mailto:jbuggana@gmail.com)  
-- **Phone**: +1 (813) 834-0645  
 - **LinkedIn**: [linkedin.com/in/jaswanth-kumar/](https://linkedin.com/in/jaswanth-kumar/)  
 - **GitHub**: [github.com/jaswanthBuggana](https://github.com/jaswanthBuggana)  
-
----
 
 Thank you for visiting my profile! Let's connect and create impactful data solutions together.
 
