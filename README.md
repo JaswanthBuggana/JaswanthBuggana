@@ -37,7 +37,7 @@ I am actively exploring new opportunities where I can:
 Feel free to connect with me for any exciting opportunities or collaborations:
 
 - **Email**: [jbuggana@gmail.com](mailto:jbuggana@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/jaswanth-kumar/](https://linkedin.com/in/jaswanth-kumar/)  
+- **LinkedIn**: [linkedin.com/in/jaswanth-kumar/](https://www.linkedin.com/in/jaswanthkumr/)  
 - **GitHub**: [github.com/jaswanthBuggana](https://github.com/jaswanthBuggana)  
 
 Thank you for visiting my profile! Let's connect and create impactful data solutions together.
