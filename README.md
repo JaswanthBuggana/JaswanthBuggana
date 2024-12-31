@@ -5,13 +5,7 @@ Hello, Welcome to my GitHub profile!
 I am Jaswanth Kumar, an experienced **Data Engineer** with over 4 years of expertise in building and optimizing data pipelines, managing cloud migrations, and integrating complex data systems. I have had the privilege of working with industry leaders such as **Walmart** and **Infosys**, where I contributed to impactful projects that enhanced data processing efficiency and delivered actionable insights. I am passionate about leveraging technology to address data challenges, streamline workflows, and support informed decision-making.
 
 ## Exploring Data Engineer Opportunities
-
-I am actively exploring new opportunities where I can:
-
-- Design and optimize scalable ETL pipelines.
-- Work on cloud migrations and data integration projects.
-- Build data-driven solutions that provide actionable business insights.
-- Collaborate on innovative projects leveraging big data and machine learning technologies.
+I'm actively seeking roles in Data Engineer, Data Architect, and Big Data Engineer. Let's innovate and shape the future of data-driven solutions together!
 
 ## Data Engineer Projects: 
 - [Stock-market-kafka-data-engineering](https://github.com/JaswanthBuggana/Stock-market-kafka-data-engineering-project)
@@ -42,5 +36,5 @@ Feel free to connect with me for any exciting opportunities or collaborations:
 - **LinkedIn**: [linkedin.com/in/jaswanth-kumar/](https://www.linkedin.com/in/jaswanthkumr/)  
 - **GitHub**: [github.com/jaswanthBuggana](https://github.com/jaswanthBuggana)  
 
-Thank you for visiting my profile! Let's connect and create impactful data solutions together.
+Thank you for visiting my profile! 
 
