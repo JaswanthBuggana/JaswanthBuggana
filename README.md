@@ -13,15 +13,17 @@ I am actively exploring new opportunities where I can:
 - Build data-driven solutions that provide actionable business insights.
 - Collaborate on innovative projects leveraging big data and machine learning technologies.
 
-## Projects
+## Data Engineer Projects: 
+- [Stock-market-kafka-data-engineering](https://github.com/JaswanthBuggana/Stock-market-kafka-data-engineering-project)
+- [Amazon-web-scraping-python-project](https://github.com/JaswanthBuggana/Amazon-web-scraping-python-project)
+- [Tokyo-olympic-azure-data-engineering-project](https://github.com/JaswanthBuggana/Tokyo-olympic-azure-data-engineering-project)
+- [Uber-ETL-pipeline-data-engineering](https://github.com/JaswanthBuggana/Uber-ETL-pipeline-data-engineering) 
+## Analytics Projects:
+- [Telecom Customer Churn Prediction](https://github.com/JaswanthBuggana/Telecom-Customer-Churn-Prediction) - EDA, Data Visualization, ML models( K-NN, Decision Tree, Random Forest Trees, Logistic Regression)
+- [Real Estate Price Prediction](https://github.com/JaswanthBuggana/Real-Estate-Price-Prediction-in-Bay-Area) - Data Cleaning, Web scraping, Regression Model
+- [NCDC ClimateRecords BigData Analytics](https://github.com/JaswanthBuggana/NCDC-ClimateRecords-Big-Data-Analytics) - Python, Hadoop, Hive, Pig
 
-### **Integrated Big Data Analysis of NCDC Weather Records**
-- Designed SQL and PySpark ETL pipelines to process over 10GB of meteorological data using HDFS, Pig, and Hive.
-- Enhanced air traffic control decisions by calculating visibility distances and sky ceiling heights, enabling efficient parallel processing.
 
-### **Bay Area Real Estate Price Prediction**
-- Executed web scraping with BeautifulSoup and Selenium to extract real-time data for 4,500+ properties from Redfin.
-- Trained and evaluated regression models (Linear Regression, Decision Trees, Gradient Boosting) to predict property prices in the Bay Area accurately.
 
 ## Skills and Technologies
 
